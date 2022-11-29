@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pythonproject2"
+version = "0.1.0"
+description = ""
+authors = ["Jacob <jakub.szczepanski12330@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flask = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
