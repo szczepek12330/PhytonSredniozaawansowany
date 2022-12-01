@@ -1,0 +1,8 @@
+2022-12-01 14:21:28,924 root INFO Dzielenie 3 przez 0
+2022-12-01 14:21:28,924 root ERROR B³a w czasie wykonania zadania
+Traceback (most recent call last):
+  File "C:\Users\home\PycharmProjects\pythonProject2\Day3\task2.py", line 32, in <module>
+    main(args.n1, args.n2, args.output)
+  File "C:\Users\home\PycharmProjects\pythonProject2\Day3\task2.py", line 13, in main
+    result = number / other_number
+ZeroDivisionError: division by zero

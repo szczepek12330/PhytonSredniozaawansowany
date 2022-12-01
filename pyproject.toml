@@ -10,6 +10,11 @@ python = "^3.10"
 flask = "^2.2.2"
 tzdata = "^2022.6"
 self = "^2020.12.3"
+result = "^0.8.0"
+pyyaml = "^6.0"
+fpdf2 = "^2.6.0"
+pypdf2 = "^2.11.2"
+pdf2image = "^1.16.0"
 
 
 [build-system]
